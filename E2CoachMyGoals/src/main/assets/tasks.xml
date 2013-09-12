@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<today>
+    <task>
+        <title>
+            Spise 4 måltider pr. dag.
+        </title>
+        <category>
+            Ernæring
+        </category>
+        <datetime>
+            2013-08-29 00:00:00
+        </datetime>
+        <completed>
+            0
+        </completed>
+    </task>
+    <task>
+        <title>
+            Stavgang i 'mørdarbakken'
+        </title>
+        <category>
+            Trening
+        </category>
+        <datetime>
+            2013-08-29 18:00:00
+        </datetime>
+        <completed>
+            0
+        </completed>
+    </task>
+    <task>
+        <title>
+            Drikke mye vann
+        </title>
+        <category>
+            Ernæring
+        </category>
+        <datetime>
+            2013-08-29 00:00:00
+        </datetime>
+        <completed>
+            0
+        </completed>
+    </task>
+    <task>
+        <title>
+            Sykle til jobb
+        </title>
+        <category>
+            Trening
+        </category>
+        <datetime>
+            2013-08-29 07:00:00
+        </datetime>
+        <completed>
+            0
+        </completed>
+    </task>
+    <task>
+        <title>
+            Sykle fra jobb
+        </title>
+        <category>
+            Trening
+        </category>
+        <datetime>
+            2013-08-29 16:00:00
+        </datetime>
+        <completed>
+            0
+        </completed>
+    </task>
+</today>
